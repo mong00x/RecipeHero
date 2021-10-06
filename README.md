@@ -4,6 +4,8 @@ This is the repo of Recipe Hero, an mobile applicaion that generate recipe based
 
 To try out the MVP, please visit [Recipe Hero](https://mong00x.github.io/recipehero/).
 
+# To download the code to your laptop and run please follow steps listed below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
