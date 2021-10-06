@@ -1,6 +1,6 @@
 # Recipe Hero
 
-This is the repo of Recipe Hero, an mobile applicaion that generate recipe based on you inventory.
+This is the repo of Recipe Hero, an mobile applicaion that generate recipe based on your inventory.
 
 To try out the MVP, please visit [Recipe Hero](https://mong00x.github.io/recipehero/).
 
