@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/recipehero/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/recipehero/static/js/main.14d171e1.chunk.js",
-    "main.js.map": "/recipehero/static/js/main.14d171e1.chunk.js.map",
-    "runtime-main.js": "/recipehero/static/js/runtime-main.d56e5c5d.js",
-    "runtime-main.js.map": "/recipehero/static/js/runtime-main.d56e5c5d.js.map",
-    "static/js/2.e34d7f38.chunk.js": "/recipehero/static/js/2.e34d7f38.chunk.js",
-    "static/js/2.e34d7f38.chunk.js.map": "/recipehero/static/js/2.e34d7f38.chunk.js.map",
-    "static/js/3.ce478deb.chunk.js": "/recipehero/static/js/3.ce478deb.chunk.js",
-    "static/js/3.ce478deb.chunk.js.map": "/recipehero/static/js/3.ce478deb.chunk.js.map",
+    "main.css": "/recipehero/static/css/main.91cb3091.chunk.css",
+    "main.js": "/recipehero/static/js/main.b7d11d8d.chunk.js",
+    "main.js.map": "/recipehero/static/js/main.b7d11d8d.chunk.js.map",
+    "runtime-main.js": "/recipehero/static/js/runtime-main.3bb07eca.js",
+    "runtime-main.js.map": "/recipehero/static/js/runtime-main.3bb07eca.js.map",
+    "static/js/2.26f1c294.chunk.js": "/recipehero/static/js/2.26f1c294.chunk.js",
+    "static/js/2.26f1c294.chunk.js.map": "/recipehero/static/js/2.26f1c294.chunk.js.map",
+    "static/js/3.b88a8162.chunk.js": "/recipehero/static/js/3.b88a8162.chunk.js",
+    "static/js/3.b88a8162.chunk.js.map": "/recipehero/static/js/3.b88a8162.chunk.js.map",
     "index.html": "/recipehero/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/recipehero/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.e34d7f38.chunk.js.LICENSE.txt": "/recipehero/static/js/2.e34d7f38.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/recipehero/static/media/logo.6ce24c58.svg"
+    "static/css/main.91cb3091.chunk.css.map": "/recipehero/static/css/main.91cb3091.chunk.css.map",
+    "static/js/2.26f1c294.chunk.js.LICENSE.txt": "/recipehero/static/js/2.26f1c294.chunk.js.LICENSE.txt",
+    "static/media/logo.a0e97c14.png": "/recipehero/static/media/logo.a0e97c14.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d56e5c5d.js",
-    "static/js/2.e34d7f38.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.14d171e1.chunk.js"
+    "static/js/runtime-main.3bb07eca.js",
+    "static/js/2.26f1c294.chunk.js",
+    "static/css/main.91cb3091.chunk.css",
+    "static/js/main.b7d11d8d.chunk.js"
   ]
 }
